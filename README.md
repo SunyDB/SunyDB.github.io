@@ -15,21 +15,22 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Nigeria Public Health Practice Analysis
-Project Overview
+## Project Overview
 
 This project analyzes public health data collected from healthcare facilities across Nigeria to understand disease patterns, treatment outcomes, healthcare access, and treatment costs. The analysis aims to provide actionable insights that can support healthcare decision-making and improve service delivery.
 
-Problem Statement
+## Problem Statement
 
 Healthcare organizations require reliable data to monitor disease prevalence, treatment success rates, patient outcomes, and healthcare costs. This project seeks to identify key health trends and evaluate healthcare performance across different states and facility types.
 
-Objectives
+## Objectives
 Analyze disease distribution across Nigeria.
 Evaluate treatment success and mortality rates.
 Examine treatment costs and healthcare access.
 Compare healthcare outcomes across facility types.
 Identify areas for improving healthcare delivery.
-Tools Used
+
+## Tools Used
 Microsoft Excel
 Pivot Tables
 Data Cleaning Techniques
@@ -73,6 +74,7 @@ Duplicate patient records.
 Missing values.
 Inconsistent disease names such as "Malaria," "MALARIA," and "malaria."
 Negative treatment costs.
+
 5. Treatment Delays
 
 Some patients experienced significant delays before receiving treatment, which may affect health outcomes.
